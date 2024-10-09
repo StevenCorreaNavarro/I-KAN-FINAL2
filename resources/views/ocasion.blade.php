@@ -101,7 +101,7 @@ background-size: cover;">
                         <br>
                         <button>
                             <a href="noche_de_fiesta">
-                                <h2>b DESCUBRE</h2>
+                                <h2> DESCUBRE</h2>
                             </a>
                         </button>
                     </center>

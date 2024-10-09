@@ -23,12 +23,12 @@ background-size: cover;">
     <center>
         <div class="">
 
-            <div class=" columnas ">
+            <div class=" colo ">
 
 
 
 
-                <div class="g-col-6 arreglo" style="background-color: #D4BBE2; width: 23%;">
+                <div class="g-col-6 arreglo" style="background-color: #D4BBE2; width: 25%;">
                     {{-- <center> --}}
                     <img src="img/IMG ESTILOS/casual.jpg" alt="" style="width: 100%;  ">
                     <div class="">
@@ -52,7 +52,7 @@ background-size: cover;">
 
                 
 
-                <div class="g-col-6  arreglo" style="background-color: #F8CBBF; width: 23%;">
+                <div class="g-col-6  arreglo" style="background-color: #F8CBBF; width: 25%;">
                     {{-- <center> --}}
                     <img src="img/IMG ESTILOS/clasico.jpg" alt="" style="width: 100%;  ">
                     <div class="">

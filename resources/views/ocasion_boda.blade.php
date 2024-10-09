@@ -21,7 +21,7 @@ background-size: cover;">
     <br><br><br><br>
     <center>
         <div class="">
-            <div class=" columnas ">
+            <div class=" colo ">
                 <div class="g-col-6  arreglo" style="background-color: #F8CBBF; width: 23%;">
                     {{-- <center> --}}
                     <img src="img/IMG ESTILOS/clasico.jpg" alt="" style="width: 100%;  ">
