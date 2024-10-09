@@ -24,7 +24,7 @@ background-size: cover;">
             <div class=" columnas ">
                 <div class="g-col-6 arreglo" style="background-color: #D4BBE2; width: 23%;">
                     {{-- <center> --}}
-                    <img src="img/IMG ESTILOS/casual.jpg" alt="" style="width: 200px; ">
+                    <img src="img/IMG ESTILOS/casual.jpg" alt="" style="width: 100%; ">
                     <div class="">
                         <h1>Casual</h1>
                         <h6> !Nos vestimos para impresionar a los demás o para sentirnos cómodos y seguros en nuestra
@@ -44,7 +44,7 @@ background-size: cover;">
 
                 <div class="g-col-6  arreglo" style="background-color: #C9E5F6; width: 23%;">
                     {{-- <center> --}}
-                    <img src="img/IMG ESTILOS/urbano (3).jpg" alt="" style="width: 200px; ; ">
+                    <img src="img/IMG ESTILOS/urbano (3).jpg" alt="" style="width: 100%; ; ">
                     <div class="">
                         <h1>Urbano</h1>
                         <h6> !Nos vestimos para impresionar a los demás o para sentirnos cómodos y seguros en nuestra
@@ -66,7 +66,7 @@ background-size: cover;">
 
                 <div class="g-col-6  arreglo" style="background-color: #F8CBBF; width: 23%;">
                     {{-- <center> --}}
-                    <img src="img/IMG ESTILOS/clasico.jpg" alt="" style="width: 200px;  ">
+                    <img src="img/IMG ESTILOS/clasico.jpg" alt="" style="width: 100%;  ">
                     <div class="">
                         <h1>Clasico</h1>
                         <h6> !Nos vestimos para impresionar a los demás o para sentirnos cómodos y seguros en nuestra
