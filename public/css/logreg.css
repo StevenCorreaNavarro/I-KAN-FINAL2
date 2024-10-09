@@ -1,0 +1,43 @@
+header.down {
+    top: -100px;
+    /* desplazar el header hacia arriba */
+}
+
+header {
+    background: linear-gradient(#d9d9d9d8, #c7c7c7d8);
+    width: 100%;
+    height: 45px;
+    /**/
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 20px;
+    /**/
+    position: fixed;
+    /* fijar el header en la parte superior */
+    top: 25px;
+    /* colocar el header en la parte superior */
+    width: 100%;
+    /* ancho completo del header */
+    z-index: 1000;
+    /* asegurar que el header esté sobre otros elementos */
+    transition: top 0.3s;
+    /* agregar transición suave al desplazarse hacia abajo */
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.474);
+    /**/
+}
+
+header .logo {
+    font-size: 30px;
+    text-transform: uppercase;
+
+
+}
+.botone {
+    display: flex;
+    margin: 0;
+    padding: 0%;
+    
+  
+
+}
