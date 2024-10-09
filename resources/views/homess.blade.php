@@ -24,10 +24,6 @@ background-size: cover;">
 
 
     <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt, fugiat ab iusto, doloribus sapiente dignissimos obcaecati rerum, aliquid illo enim tenetur delectus. Cumque impedit voluptates corporis, cupiditate molestias nisi debitis.</p> -->
-
-
-    
-
     <script>
         let submenu = document.getElementById("submenu");
 
@@ -35,8 +31,6 @@ background-size: cover;">
             submenu.classList.toggle("open-menu");
         }
     </script>
-
-
     <div class="cuerpo">
         {{-- @foreach ($sliders as $post)
             <div class="slider ">
@@ -105,26 +99,30 @@ background-size: cover;">
                             @endif
                         </div>
                     @endforeach
+                    <div>
+                        {{-- Botones de control de navegación --}}
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade"
+                            data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Anterior</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade"
+                            data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Siguiente</span>
+                        </button>
+
+                    </div>
                 </div>
 
 
 
-                {{-- Botones de control de navegación --}}
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade"
-                    data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Anterior</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade"
-                    data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Siguiente</span>
-                </button>
+
             </div>
             {{-- Botón encima del slider --}}
-    <div class="imagencentrado">
-        <a href="login" class="btn-buscar-outfit">BUSCAR OUTFIT</a>
-    </div>
+            <div class="imagencentrado">
+                <a href="login" class="btn-buscar-outfit">BUSCAR OUTFIT</a>
+            </div>
         </div>
 
 
@@ -399,19 +397,23 @@ background-size: cover;">
             <div class="box">
                 <img src="img/IMG HOME/13.jpg" alt="">
                 <div class="overlay">
-                    <p>"La elegancia se encuentra en los detalles. Cada mirada, cada gesto y cada prenda cuentan una historia de sofisticación y estilo único."</p>
+                    <p>"La elegancia se encuentra en los detalles. Cada mirada, cada gesto y cada prenda cuentan una
+                        historia de sofisticación y estilo único."</p>
                 </div>
             </div>
             <div class="box">
                 <img src="img/IMG HOME/14.jpg" alt="">
                 <div class="overlay">
-                    <p>"La sencillez nunca pasa de moda. Un estilo casual y relajado que combina la frescura del denim con la confianza de quien lo lleva. Cada detalle cuenta cuando lo esencial es ser auténtico."</p>
+                    <p>"La sencillez nunca pasa de moda. Un estilo casual y relajado que combina la frescura del denim
+                        con la confianza de quien lo lleva. Cada detalle cuenta cuando lo esencial es ser auténtico."
+                    </p>
                 </div>
             </div>
             <div class="box">
                 <img src="img/IMG HOME/15.jpg" alt="">
                 <div class="overlay">
-                    <p>"Fuerza y estilo se unen en cada paso. Una actitud decidida, lista para conquistar el día, mientras el look deportivo redefine la comodidad con un toque audaz y moderno."</p>
+                    <p>"Fuerza y estilo se unen en cada paso. Una actitud decidida, lista para conquistar el día,
+                        mientras el look deportivo redefine la comodidad con un toque audaz y moderno."</p>
                 </div>
             </div>
         </div>
