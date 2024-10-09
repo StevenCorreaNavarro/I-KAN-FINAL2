@@ -115,14 +115,14 @@ background-size: cover;">
                     </div>
                 </div>
 
-
+                <div class="imagencentrado">
+                    <a href="login" class="btn-buscar-outfit">BUSCAR OUTFIT</a>
+                </div>
 
 
             </div>
             {{-- Botón encima del slider --}}
-            <div class="imagencentrado">
-                <a href="login" class="btn-buscar-outfit">BUSCAR OUTFIT</a>
-            </div>
+
         </div>
 
 

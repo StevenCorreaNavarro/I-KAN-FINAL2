@@ -318,7 +318,7 @@ img {
 
 .imagencentrado img {
     width: 400px;
-    margin-top: 150px;
+    /* margin-top: 8%; */
     background-color: #ffffff00;
     z-index: 1;
 
@@ -339,17 +339,17 @@ img {
     justify-content: center;
     align-items: center;
     position: absolute;
-    margin-top: -28%;
+    margin-top: -12%;
     display: flex;
     border-radius: 10px;
     box-shadow: 0px 0px 5px 10px rgba(52, 52, 52, 0.149);
 }
-HDHDHDH
+
 
 .imagencentrado a:hover {
     color: #000000;
     background-color: rgb(255, 255, 255);
-    box-shadow:0px 0px 5px 10px rgba(52, 52, 52, 0.47);
+    box-shadow:0px 0px 5px 10px rgba(52, 52, 52, 0.293);
 }
 .imagencentrado h2{
     color: #0c243a;
