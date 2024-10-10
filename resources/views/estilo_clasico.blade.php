@@ -57,7 +57,7 @@
 
     <script>
         function fetchSearchResults() {
-            const apiKey = 'AIzaSyANf_BSS299tblgVNNbB_gZYjGgcuO5qLg';
+            const apiKey = 'AIzaSyDnbP4Uhy8MPMtLzaugfqOrJl0vsdfdb_Y';
             const searchEngineId = 'b751aa8b758cc4d6a';
             const queries = ['gaban', 'blazer', 'jeans', 'blusas', 'botas', 'botines',
             'gafas']; // Lista de términos de búsqueda
