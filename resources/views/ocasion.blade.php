@@ -35,10 +35,10 @@ background-size: cover;">
                 <img src="img/IMG OCASIONES/amigos.jpg" alt="">
                 <div class="intex">
                     <center>
-                        <h1>Salida con amigos</h1>
+                        <h1><b>Salida con amigos</b></h1>
                         <p> !lo que buscabas!
                         </p>
-                        <br><br>
+                        <br>
 
                         <button>
                             {{-- ******* esta es la ruta web de laravel **** --}}
@@ -48,15 +48,16 @@ background-size: cover;">
                         </button>
                     </center>
                 </div>
+                
             </div>
             <br><br>
             <div class="cuero">
                 <div class="intex">
                     <center>
-                        <h1>Boda</h1>
+                        <h1><b>Boda</b></h1>
                         <p> !Lo que necesitabas !
                         </p>
-                        <br><br>
+                        <br>
                         <button>
                             <a href="boda">
                                 <h2> DESCUBRE</h2>
@@ -79,10 +80,10 @@ background-size: cover;">
                 <img src="img/IMG OCASIONES/negocios.jpg" alt="">
                 <div class="intex">
                     <center>
-                        <h1>NEGOCIOS</h1>
+                        <h1><b>NEGOCIOS</b></h1>
                         <p> !Lo que buscabas!
                         </p>
-                        <br><br>
+                        <br>
                         <button>
                             <a href="negocios">
                                 <h2> DESCUBRE</h2>
@@ -95,10 +96,10 @@ background-size: cover;">
             <div class="cuero4">
                 <div class="intex">
                     <center>
-                        <h1>NOCHE DE FIESTA</h1>
+                        <h1><b>NOCHE DE FIESTA</b></h1>
                         <p> ! Justo lo que necesitas !
                         </p>
-                        <br><br>
+                        <br>
                         <button>
                             <a href="noche_de_fiesta">
                                 <h2> DESCUBRE</h2>

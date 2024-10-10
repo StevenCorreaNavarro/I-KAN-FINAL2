@@ -900,15 +900,28 @@ h1 {
 
 
 
-.columnas {
+.colu {
     display: flex;
     justify-content: center;
 
 }
 
 .arreglo {
-    width: 25%;
+    /* width: 50%;
+    height: 50%; */
+    /* height: 50%; */
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
+}
+.columnas{
+    
+    display: grid;
+    grid-template-columns: 
+    repeat(
+        auto-fit,
+        minmax(190px, 1fr)
+    );
+    gap: 32px;
+
 }
