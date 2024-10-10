@@ -54,7 +54,7 @@
 
     <script>
         function fetchSearchResults() {
-            const apiKey = 'AIzaSyDnbP4Uhy8MPMtLzaugfqOrJl0vsdfdb_Y';
+            const apiKey = 'AIzaSyC79klYGv9VBLGiUhouWKgOH9yIzDMryR0';
             const searchEngineId = 'b751aa8b758cc4d6a';
             const queries = ['blazers', 'jeans', 'gafas', 'camisas', 'botas', 'Blusas*','abrigos','botines','gaban',
             '']; // Lista de términos de búsqueda
@@ -110,42 +110,6 @@
                     .catch(error => console.error('Error fetching search results:', error));
             });
         }
-
-
-
-        // function fetchSearchResults() {
-        //     const apiKey = 'AIzaSyA0V0HiQ_c5wWtU61z2EfAQkduUl1Z1XeM';
-        //     const searchEngineId = 'b751aa8b758cc4d6a';
-        //     const query = ["vestido"]&&["bolsos"]||["blusas"];
-
-
-
-        //     const url = `https://www.googleapis.com/customsearch/v1?key=${apiKey}&cx=${searchEngineId}&q=${query}`;
-
-        //     fetch(url)
-        //         .then(response => response.json())
-        //         .then(data => {
-        //             const results = data.items;
-        //             const searchResultsDiv = document.getElementById('search-results');
-        //             searchResultsDiv.innerHTML = '';
-
-        //             results.forEach(result => {
-        //                 const title = result.title;
-        //                 const link = result.link;
-        //                 const imageLink = result.pagemap ? (result.pagemap.cse_thumbnail ? result.pagemap.cse_thumbnail[0].src : '') : '';
-
-        //                 const resultItem = document.createElement('div');
-        //                 resultItem.innerHTML = `
-    //                     <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    //                         <img src="${imageLink}" alt="Thumbnail" style="width: 100px; height: 100px; margin-right: 20px;">
-    //                         <p style="margin: 0;"><a href="${link}" target="_blank">${title}</a></p>
-    //                     </div>
-    //                 `;
-        //                 searchResultsDiv.appendChild(resultItem);
-        //             });
-        //         })
-        //         .catch(error => console.error('Error fetching search results:', error));
-        // }
     </script>
     <script src="#"></script>
 </body>

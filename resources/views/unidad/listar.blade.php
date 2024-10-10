@@ -63,7 +63,7 @@ background-size: cover;">
                                     {{ $unit->descrip }}
                                 </p>
                             </div><div>
-                                <br><center><a href="ubicacion">seleccionar</a></center>
+                                <br><center><a href="ubicacion">Ubicacion</a></center>
                             </div>
                         </div>
                     </div>
