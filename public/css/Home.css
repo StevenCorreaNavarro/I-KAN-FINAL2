@@ -191,6 +191,8 @@ header nav ul li a.active {
 
 .tendencias{
     background-color: #b2adad;
+    margin-top: 3%;
+    margin-bottom: 3%;
     width: 100%;
     height: 70px;
 }
