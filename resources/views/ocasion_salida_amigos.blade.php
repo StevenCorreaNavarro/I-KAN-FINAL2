@@ -13,7 +13,8 @@
     <title>I KAN</title>
 </head>
 
-<body style="
+<body
+    style="
 background: linear-gradient(#323534, #606161,#444847,#444847);
 background-attachment: fixed;
 background-size: cover;">
@@ -25,10 +26,10 @@ background-size: cover;">
                 <div class="g-col-6 arreglo" style="background-color: #D4BBE2; ">
                     {{-- <center> --}}
                     <img src="img/IMG ESTILOS/casual.jpg" alt="" style="width: 100%;  ">
-                    <img src="img/IMG ESTILOS/casual.jpg" alt="" style="width: 100%;  ">
+
                     <div class="">
                         <h3>Casual</h3>
-                        <h3>Casual</h3>
+
                         <h6> !Nos vestimos para impresionar a los demás o para sentirnos cómodos y seguros en nuestra
                             propia
                             piel!
@@ -47,7 +48,7 @@ background-size: cover;">
                     {{-- <center> --}}
                     <img src="img/IMG ESTILOS/urbano (3).jpg" alt="" style="width: 100%;   ">
                     <div class="">
-                        <h3>Urbano</h3>
+
                         <h3>Urbano</h3>
                         <h6> !Nos vestimos para impresionar a los demás o para sentirnos cómodos y seguros en nuestra
                             propia
@@ -66,10 +67,10 @@ background-size: cover;">
                 <div class="g-col-6  arreglo" style="background-color: #A3C7BD;  ">
                     {{-- <center> --}}
                     <img src="img/IMG ESTILOS/deportivo.jpg" alt="" style="width: 100%; ">
-                    <img src="img/IMG ESTILOS/deportivo.jpg" alt="" style="width: 100%; ">
+
                     <div class="">
                         <h3>Deportivo</h3>
-                        <h3>Deportivo</h3>
+
                         <h6> !Nos vestimos para impresionar a los demás o para sentirnos cómodos y seguros en nuestra
                             propia
                             piel!
@@ -84,13 +85,13 @@ background-size: cover;">
                     {{-- </center> --}}
                 </div>
 
-                <div class="g-col-6  arreglo" style="background-color: #F8CBBF;">
+
                 <div class="g-col-6  arreglo" style="background-color: #F8CBBF;">
                     {{-- <center> --}}
                     <img src="img/IMG ESTILOS/clasico.jpg" alt="" style="width: 100%;  ">
                     <div class="">
                         <h3>Clasico</h3>
-                        <h3>Clasico</h3>
+
                         <h6> !Nos vestimos para impresionar a los demás o para sentirnos cómodos y seguros en nuestra
                             propia
                             piel!
@@ -106,10 +107,10 @@ background-size: cover;">
                     {{-- </center> --}}
                 </div>
             </div>
-                
 
-                
-                       
+
+
+
         </div>
     </center>
     <script src="i kan.js"></script>

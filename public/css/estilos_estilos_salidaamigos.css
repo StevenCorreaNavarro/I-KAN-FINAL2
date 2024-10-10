@@ -651,7 +651,7 @@ footer {
         bottom: -3px;
     }
 
-
+   
     .fil {
         font-size: 3rem;
     }
@@ -707,10 +707,8 @@ footer {
 
 
 
-a h2 {
-    color: #dbdbdb;
-    font-size: 70%;
-    border-radius: 10px;
+a h2{
+    color: #C9E5F6;
 }
 
 
@@ -902,21 +900,28 @@ h1 {
 
 
 
-.columnas {
+.colu {
     display: flex;
     justify-content: center;
 
 }
 
-/*
-
-
-/* .column{
-    display: flex;
-}  */
 .arreglo {
-    width: 25%;
+    /* width: 50%;
+    height: 50%; */
+    /* height: 50%; */
     padding: 10px;
     margin: 10px;
     border-radius: 10px;
+}
+.columnas{
+    
+    display: grid;
+    grid-template-columns: 
+    repeat(
+        auto-fit,
+        minmax(190px, 1fr)
+    );
+    gap: 32px;
+
 }
