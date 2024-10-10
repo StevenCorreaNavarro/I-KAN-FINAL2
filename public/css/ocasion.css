@@ -541,10 +541,6 @@ button{
 
 
 
-
-
-
-
 .cuero2 {
     margin-left: 5%;
     /* padding-right: 5%; */
@@ -577,9 +573,13 @@ p {
     font-size: 20px;
 }
 
-h1 {
+/* h1 {
     font-size: 40px;
 }
+
+.intex h1{
+    font-size: 100%;
+} */
 
 .cuero3 {
     margin-left: 5%;

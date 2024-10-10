@@ -35,8 +35,6 @@ background-size: cover;">
             submenu.classList.toggle("open-menu");
         }
     </script>
-
-
     <div class="cuerpo">
         {{-- @foreach ($sliders as $post)
             <div class="slider ">
@@ -127,6 +125,7 @@ background-size: cover;">
 
             </div>
             {{-- Botón encima del slider --}}
+
 
         </div>
 
@@ -404,6 +403,8 @@ background-size: cover;">
                 <div class="overlay">
                     <p>"La elegancia se encuentra en los detalles. Cada mirada, cada gesto y cada prenda cuentan una
                         historia de sofisticación y estilo único."</p>
+                    <p>"La elegancia se encuentra en los detalles. Cada mirada, cada gesto y cada prenda cuentan una
+                        historia de sofisticación y estilo único."</p>
                 </div>
             </div>
             <div class="box">
@@ -412,11 +413,16 @@ background-size: cover;">
                     <p>"La sencillez nunca pasa de moda. Un estilo casual y relajado que combina la frescura del denim
                         con la confianza de quien lo lleva. Cada detalle cuenta cuando lo esencial es ser auténtico."
                     </p>
+                    <p>"La sencillez nunca pasa de moda. Un estilo casual y relajado que combina la frescura del denim
+                        con la confianza de quien lo lleva. Cada detalle cuenta cuando lo esencial es ser auténtico."
+                    </p>
                 </div>
             </div>
             <div class="box">
                 <img src="img/IMG HOME/15.jpg" alt="">
                 <div class="overlay">
+                    <p>"Fuerza y estilo se unen en cada paso. Una actitud decidida, lista para conquistar el día,
+                        mientras el look deportivo redefine la comodidad con un toque audaz y moderno."</p>
                     <p>"Fuerza y estilo se unen en cada paso. Una actitud decidida, lista para conquistar el día,
                         mientras el look deportivo redefine la comodidad con un toque audaz y moderno."</p>
                 </div>
