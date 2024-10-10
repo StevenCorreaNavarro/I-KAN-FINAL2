@@ -38,7 +38,7 @@ background-size: cover;">
                         <h1>Salida con amigos</h1>
                         <p> !lo que buscabas!
                         </p>
-                        <br><br>
+                        <br>
 
                         <button>
                             {{-- ******* esta es la ruta web de laravel **** --}}
@@ -48,6 +48,7 @@ background-size: cover;">
                         </button>
                     </center>
                 </div>
+                
             </div>
             <br><br>
             <div class="cuero">
@@ -56,7 +57,7 @@ background-size: cover;">
                         <h1>Boda</h1>
                         <p> !Lo que necesitabas !
                         </p>
-                        <br><br>
+                        <br>
                         <button>
                             <a href="boda">
                                 <h2> DESCUBRE</h2>
@@ -82,7 +83,7 @@ background-size: cover;">
                         <h1>NEGOCIOS</h1>
                         <p> !Lo que buscabas!
                         </p>
-                        <br><br>
+                        <br>
                         <button>
                             <a href="negocios">
                                 <h2> DESCUBRE</h2>
@@ -98,7 +99,7 @@ background-size: cover;">
                         <h1>NOCHE DE FIESTA</h1>
                         <p> ! Justo lo que necesitas !
                         </p>
-                        <br><br>
+                        <br>
                         <button>
                             <a href="noche_de_fiesta">
                                 <h2> DESCUBRE</h2>

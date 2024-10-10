@@ -504,8 +504,8 @@ header nav ul li a.active {
 }
 
 .cuero {
-    padding-left: 50px;
-    margin-right: 50px;
+    /* padding-left: 5%;  */
+    margin-right: 5%;  
     margin-top: 2px;
     margin-bottom: 2px;
     display: flex;
@@ -513,21 +513,29 @@ header nav ul li a.active {
     align-items: center;
     padding-bottom: 0%;
     border-radius: 0 10px 10px 0;
+    /* height: 300px; */
 }
 
 .cuero .intex {
-    width: 1000px;
-    padding-left: 100px;
-    padding-right: 100px;
+    
+    width: 100%;/**/
+    /* padding-left: 10%; */
+    /* padding-right: 10%; */
+    height: 250px;
+}
+button{
+    margin-bottom: 1px;
 }
 
+
 .cuero img {
-    height: 500px;
-    width: 800px;
+    height: 50%;
+    width: 50%;
     margin-bottom: 0%;
     margin-top: 0%;
     padding: 0%;
     margin-left: 3px;
+    border-radius: 0 10px 10px 0;
 
 }
 
@@ -538,8 +546,8 @@ header nav ul li a.active {
 
 
 .cuero2 {
-    margin-left: 50px;
-    padding-right: 50px;
+    margin-left: 5%;
+    /* padding-right: 5%; */
     margin-top: -160px;
     margin-bottom: 2px;
     display: flex;
@@ -550,14 +558,15 @@ header nav ul li a.active {
 }
 
 .cuero2 .intex {
-    width: 1000px;
-    padding-left: 100px;
-    padding-right: 100px;
+    width: 100%;/**/
+    /* padding-left: 10%; */
+    /* padding-right: 10%; */
+    height: 250px;
 }
 
 .cuero2 img {
-    height: 500px;
-    width: 780px;
+    height: 50%;
+    width: 50%;
     margin-bottom: 0%;
     margin-top: 0%;
     padding: 0%;
@@ -573,8 +582,8 @@ h1 {
 }
 
 .cuero3 {
-    margin-left: 50px;
-    padding-right: 50px;
+    margin-left: 5%;
+    /* padding-right: 50px; */
     margin-top: -68px;
     margin-bottom: 2px;
     display: flex;
@@ -585,14 +594,15 @@ h1 {
 }
 
 .cuero3 .intex {
-    width: 1000px;
-    padding-left: 100px;
-    padding-right: 100px;
+    width: 100%;/**/
+    /* padding-left: 10%; */
+    /* padding-right: 10%; */
+    height: 250px;
 }
 
 .cuero3 img {
-    height: 500px;
-    width: 800px;
+    height: 50%;
+    width: 50%;
     margin-bottom: 0%;
     margin-top: 0%;
     padding: 0%;
@@ -600,8 +610,8 @@ h1 {
 }
 
 .cuero4 {
-    padding-left: 50px;
-    margin-right: 50px;
+    /* padding-left: 50px; */
+    margin-right: 5%;
     margin-top: 2px;
     margin-bottom: 2px;
     display: flex;
@@ -613,14 +623,15 @@ h1 {
 
 .cuero4 .intex {
 
-    width: 1000px;
-    padding-left: 100px;
-    padding-right: 100px;
+    width: 100%;/**/
+    /* padding-left: 10%; */
+    /* padding-right: 10%; */
+    height: 250px;
 }
 
 .cuero4 img {
-    height: 500px;
-    width: 800px;
+    height: 50%;
+    width: 50%;
     margin-bottom: 0%;
     margin-top: 0%;
     padding: 0%;
