@@ -91,7 +91,7 @@ background-size: cover;">
         <div class="caj">
             @foreach ($posts as $post)
                 <div class="cajita {{ $post->tipo }}"
-                    style="background-color: rgb(255, 255, 255); width:25vw ; margin:1%;">
+                    style="background-color: rgb(255, 255, 255); ">
                     <!-- Contenido del post -->
                     <div>
                         <div class="enc">

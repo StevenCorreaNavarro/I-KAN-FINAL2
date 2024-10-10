@@ -196,6 +196,8 @@ i:hover {
 }
 
 .cajita {
+  width:30vw ; 
+  margin:1%;
 
   border-radius: 5px;
   justify-content: center;
@@ -213,17 +215,6 @@ i:hover {
   padding-right: 5%;
 }
 
-@media screen and (max-width:1200px) {
-  box {
-    width: 30%;
-  }
-}
-
-@media screen and (max-width:600px) {
-  box {
-    width: 90%;
-  }
-}
 
 .filtro {
   color: white;
@@ -268,3 +259,4 @@ select{
   
   
 }
+
