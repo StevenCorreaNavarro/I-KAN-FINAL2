@@ -32,7 +32,7 @@
     </script>
     <div class="gcse-searchbox"></div>
     <div class="gcse-searchresults"></div>
-
+   
     <div class="maps">
         <div class="maps2">
             <li>
