@@ -55,7 +55,7 @@
 
     <script>
         function fetchSearchResults() {
-            const apiKey = 'AIzaSyA0V0HiQ_c5wWtU61z2EfAQkduUl1Z1XeM';
+            const apiKey = 'AIzaSyANf_BSS299tblgVNNbB_gZYjGgcuO5qLg';
             const searchEngineId = 'd6318e11e15654a4f';
             const queries = ['tenis', 'joggers', 'moving-mujer', 'bolsos', 'morrales', 'pantalones', 'tops',
                 'camisetas'

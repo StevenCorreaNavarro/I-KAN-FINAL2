@@ -58,7 +58,7 @@
 
     <script>
         function fetchSearchResults() {
-            const apiKey = 'AIzaSyA0V0HiQ_c5wWtU61z2EfAQkduUl1Z1XeM';
+            const apiKey = 'AIzaSyANf_BSS299tblgVNNbB_gZYjGgcuO5qLg';
             const searchEngineId = 'b751aa8b758cc4d6a';
             const queries = ['gorra', 'zapatillas', 'gafas', 'busos', 'chores', 'chaqueta',
             'gafas']; // Lista de términos de búsqueda

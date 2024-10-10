@@ -23,7 +23,7 @@ class User extends Authenticatable
         'password',
         // 'profile_photo',
          // Agrega este campo
-         'profile_image',
+        'profile_image',
     ];
 
     /**
