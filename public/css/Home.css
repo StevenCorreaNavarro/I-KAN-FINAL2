@@ -339,7 +339,7 @@ img {
     justify-content: center;
     align-items: center;
     position: absolute;
-    margin-top: -28%;
+    margin-top: -13%;
     display: flex;
     border-radius: 10px;
     box-shadow: 0px 0px 5px 10px rgba(52, 52, 52, 0.149);
@@ -1043,7 +1043,7 @@ figure{
     width: 25%;
     /* width dibagi slide */
     float: left;
-    height: 900px;
+    height: 100%;
 }
 
 .slide h1 {
